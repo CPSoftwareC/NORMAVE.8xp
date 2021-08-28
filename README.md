@@ -4,7 +4,7 @@
 
 ### Biografia
 
-Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano e no espaço (**Referencial _Oxy_ e _Oxyz_, respetivamente**). Calcula a norma de um vetor através das coordenadas do mesmo, dadas pelo usúario, no plano (_Oxy_) ou no espaço (_Oxyz_)
+Desenvolvido em TI-BASIC. Uso para auxiliar o estudo da Geometria analítica no plano e no espaço (**Referencial _Oxy_ e _Oxyz_, respetivamente**). Calcula a norma de um vetor através das coordenadas do mesmo, dadas pelo usuário, no plano (_Oxy_) ou no espaço (_Oxyz_)
 
 ## Versão _1.0_
 
